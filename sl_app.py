@@ -162,5 +162,7 @@ if by_halfsteps != 0:
 else:
     st.write("")
     st.write("---")
+    st.write("##### ")
+    st.write("##### ")
 
-st.write("We'd love to [hear](https://forms.gle/ZXTujHMSfU3j2i678) from you!")
+st.write(":grey[:small[We'd love to hear from you! Send us your [feedback](https://forms.gle/ZXTujHMSfU3j2i678).]]")
