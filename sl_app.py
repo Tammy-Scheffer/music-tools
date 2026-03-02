@@ -162,3 +162,5 @@ if by_halfsteps != 0:
 else:
     st.write("")
     st.write("---")
+
+st.write("We'd love to [hear](https://forms.gle/ZXTujHMSfU3j2i678) from you!")
